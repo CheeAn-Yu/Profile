@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | Chee-An Yu</title>
-    <link>https://example.com/project/</link>
-      <atom:link href="https://example.com/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>/project/</link>
+      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 02 Feb 2022 03:49:16 +0800</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
-      <link>https://example.com/project/</link>
+      <link>/project/</link>
     </image>
     
     <item>
       <title>AIOT Intelligent Trash Can</title>
-      <link>https://example.com/project/intel_trash/</link>
+      <link>/project/intel_trash/</link>
       <pubDate>Wed, 02 Feb 2022 03:49:16 +0800</pubDate>
-      <guid>https://example.com/project/intel_trash/</guid>
+      <guid>/project/intel_trash/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cantilever beam to generate electricity</title>
-      <link>https://example.com/project/cant_beam/</link>
+      <link>/project/cant_beam/</link>
       <pubDate>Wed, 02 Feb 2022 03:48:30 +0800</pubDate>
-      <guid>https://example.com/project/cant_beam/</guid>
+      <guid>/project/cant_beam/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Intelligent Healthcare Mobile Robot</title>
-      <link>https://example.com/project/hc_robot/</link>
+      <link>/project/hc_robot/</link>
       <pubDate>Wed, 02 Feb 2022 03:47:48 +0800</pubDate>
-      <guid>https://example.com/project/hc_robot/</guid>
+      <guid>/project/hc_robot/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cast Search by Portrait Challengeassa</title>
-      <link>https://example.com/project/dlcv/</link>
+      <link>/project/dlcv/</link>
       <pubDate>Wed, 02 Feb 2022 03:32:22 +0800</pubDate>
-      <guid>https://example.com/project/dlcv/</guid>
+      <guid>/project/dlcv/</guid>
       <description></description>
     </item>
     

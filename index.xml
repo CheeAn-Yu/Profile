@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chee-An Yu</title>
-    <link>https://example.com/</link>
-      <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <link>/</link>
+      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Chee-An Yu</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Chee-An Yu</title>
-      <link>https://example.com/</link>
+      <link>/</link>
     </image>
     
     <item>
       <title>Example Talk</title>
-      <link>https://example.com/talk/example-talk/</link>
+      <link>/talk/example-talk/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://example.com/talk/example-talk/</guid>
+      <guid>/talk/example-talk/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -34,41 +34,41 @@
     
     <item>
       <title>AIOT Intelligent Trash Can</title>
-      <link>https://example.com/project/intel_trash/</link>
+      <link>/project/intel_trash/</link>
       <pubDate>Wed, 02 Feb 2022 03:49:16 +0800</pubDate>
-      <guid>https://example.com/project/intel_trash/</guid>
+      <guid>/project/intel_trash/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cantilever beam to generate electricity</title>
-      <link>https://example.com/project/cant_beam/</link>
+      <link>/project/cant_beam/</link>
       <pubDate>Wed, 02 Feb 2022 03:48:30 +0800</pubDate>
-      <guid>https://example.com/project/cant_beam/</guid>
+      <guid>/project/cant_beam/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Intelligent Healthcare Mobile Robot</title>
-      <link>https://example.com/project/hc_robot/</link>
+      <link>/project/hc_robot/</link>
       <pubDate>Wed, 02 Feb 2022 03:47:48 +0800</pubDate>
-      <guid>https://example.com/project/hc_robot/</guid>
+      <guid>/project/hc_robot/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cast Search by Portrait Challengeassa</title>
-      <link>https://example.com/project/dlcv/</link>
+      <link>/project/dlcv/</link>
       <pubDate>Wed, 02 Feb 2022 03:32:22 +0800</pubDate>
-      <guid>https://example.com/project/dlcv/</guid>
+      <guid>/project/dlcv/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Welcome to Wowchemy, the website builder for Hugo</title>
-      <link>https://example.com/post/getting-started/</link>
+      <link>/post/getting-started/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/getting-started/</guid>
+      <guid>/post/getting-started/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li&gt;
@@ -143,9 +143,9 @@
     
     <item>
       <title>Slides</title>
-      <link>https://example.com/slides/example/</link>
+      <link>/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/slides/example/</guid>
+      <guid>/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://owchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -272,35 +272,35 @@ $$&lt;/p&gt;
     
     <item>
       <title>Multi-Layer Environmental Affordance Map for Robust Indoor Localization, Event Detection and Social Friendly Navigation</title>
-      <link>https://example.com/publication/iros2019/</link>
+      <link>/publication/iros2019/</link>
       <pubDate>Sat, 02 Feb 2019 04:18:49 +0800</pubDate>
-      <guid>https://example.com/publication/iros2019/</guid>
+      <guid>/publication/iros2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Privacy Policy</title>
-      <link>https://example.com/privacy/</link>
+      <link>/privacy/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>https://example.com/privacy/</guid>
+      <guid>/privacy/</guid>
       <description>&lt;p&gt;Add your privacy policy here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Terms</title>
-      <link>https://example.com/terms/</link>
+      <link>/terms/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>https://example.com/terms/</guid>
+      <guid>/terms/</guid>
       <description>&lt;p&gt;Add your terms here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://example.com/admin/config.yml</link>
+      <link>/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/admin/config.yml</guid>
+      <guid>/admin/config.yml</guid>
       <description></description>
     </item>
     
