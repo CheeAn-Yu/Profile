@@ -70,4 +70,8 @@
   <url>
     <loc></loc><lastmod>2019-02-02T04:18:49+08:00</lastmod></url>
   <url>
+    <loc>https://example.com/privacy/</loc><lastmod>2018-06-28T00:00:00+01:00</lastmod></url>
+  <url>
+    <loc>https://example.com/terms/</loc><lastmod>2018-06-28T00:00:00+01:00</lastmod></url>
+  <url>
     <loc>https://example.com/admin/</loc></url></urlset>
