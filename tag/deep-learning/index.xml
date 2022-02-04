@@ -17,7 +17,12 @@
       <link>https://cheean-yu.github.io/Profile/project/dlcv/</link>
       <pubDate>Wed, 02 Feb 2022 03:32:22 +0800</pubDate>
       <guid>https://cheean-yu.github.io/Profile/project/dlcv/</guid>
-      <description></description>
+      <description>&lt;ul&gt;
+&lt;li&gt;Proposed a deep learning-based model to re-identity people in IMDB dataset&lt;/li&gt;
+&lt;li&gt;Using a re-ranking mechanism and face crop model to achieve better performance&lt;/li&gt;
+&lt;li&gt;Visualize high dimension feature with t-SNE&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
   </channel>

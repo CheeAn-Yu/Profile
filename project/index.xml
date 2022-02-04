@@ -17,7 +17,12 @@
       <link>https://cheean-yu.github.io/Profile/project/intel_trash/</link>
       <pubDate>Wed, 02 Feb 2022 03:49:16 +0800</pubDate>
       <guid>https://cheean-yu.github.io/Profile/project/intel_trash/</guid>
-      <description></description>
+      <description>&lt;ul&gt;
+&lt;li&gt;Intelligent Trash classification based on image&lt;/li&gt;
+&lt;li&gt;IoT device and platform integration with edge computing&lt;/li&gt;
+&lt;li&gt;Trashcan mechanical design and control by R-Pi&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
@@ -25,7 +30,11 @@
       <link>https://cheean-yu.github.io/Profile/project/cant_beam/</link>
       <pubDate>Wed, 02 Feb 2022 03:48:30 +0800</pubDate>
       <guid>https://cheean-yu.github.io/Profile/project/cant_beam/</guid>
-      <description></description>
+      <description>&lt;ul&gt;
+&lt;li&gt;Utilize mechanics and physics property of piezoelectricity material to generate energy&lt;/li&gt;
+&lt;li&gt;Finite element analysis by Abaqus and resonance frequency design&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
@@ -33,7 +42,12 @@
       <link>https://cheean-yu.github.io/Profile/project/hc_robot/</link>
       <pubDate>Wed, 02 Feb 2022 03:47:48 +0800</pubDate>
       <guid>https://cheean-yu.github.io/Profile/project/hc_robot/</guid>
-      <description></description>
+      <description>&lt;ul&gt;
+&lt;li&gt;Using laser simultaneous localization and mapping(SLAM) algorithm&lt;/li&gt;
+&lt;li&gt;Integration with computer vision to identify human&lt;/li&gt;
+&lt;li&gt;AWS EC2 cloud management and website design&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
@@ -41,7 +55,12 @@
       <link>https://cheean-yu.github.io/Profile/project/dlcv/</link>
       <pubDate>Wed, 02 Feb 2022 03:32:22 +0800</pubDate>
       <guid>https://cheean-yu.github.io/Profile/project/dlcv/</guid>
-      <description></description>
+      <description>&lt;ul&gt;
+&lt;li&gt;Proposed a deep learning-based model to re-identity people in IMDB dataset&lt;/li&gt;
+&lt;li&gt;Using a re-ranking mechanism and face crop model to achieve better performance&lt;/li&gt;
+&lt;li&gt;Visualize high dimension feature with t-SNE&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
   </channel>
