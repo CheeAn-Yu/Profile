@@ -113,10 +113,6 @@
   </url>
   
   <url>
-    <loc>https://cheean-yu.github.io/Profile/author/chee-an-yu/</loc>
-  </url>
-  
-  <url>
     <loc>https://cheean-yu.github.io/Profile/home-unused/</loc>
   </url>
   
@@ -134,6 +130,10 @@
   
   <url>
     <loc>https://cheean-yu.github.io/Profile/talk/</loc>
+  </url>
+  
+  <url>
+    <loc>https://cheean-yu.github.io/Profile/author/%E4%BD%99%E5%A5%87%E5%AE%89-chee-an-ted-yu/</loc>
   </url>
   
 </urlset>
