@@ -1,139 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  <url>
-    <loc>https://cheean-yu.github.io/Profile/home-unused/slider/</loc>
-  </url>
-  
-  <url>
-    <loc>https://cheean-yu.github.io/Profile/home-unused/hero/</loc>
-  </url>
-  
-  <url>
-    <loc>https://cheean-yu.github.io/Profile/home-unused/demo/</loc>
-  </url>
-  
-  <url>
-    <loc>https://cheean-yu.github.io/Profile/home-unused/skills/</loc>
-  </url>
-  
-  <url>
-    <loc>https://cheean-yu.github.io/Profile/home-unused/experience/</loc>
-  </url>
-  
-  <url>
-    <loc>https://cheean-yu.github.io/Profile/home-unused/accomplishments/</loc>
-  </url>
-  
-  <url>
-    <loc>https://cheean-yu.github.io/Profile/home-unused/posts/</loc>
-  </url>
-  
-  <url>
-    <loc>https://cheean-yu.github.io/Profile/home-unused/projects/</loc>
-  </url>
-  
-  <url>
-    <loc>https://cheean-yu.github.io/Profile/home-unused/people/</loc>
-  </url>
-  
-  <url>
-    <loc>https://cheean-yu.github.io/Profile/home-unused/talks/</loc>
-  </url>
-  
-  <url>
-    <loc>https://cheean-yu.github.io/Profile/home-unused/featured/</loc>
-  </url>
-  
-  <url>
-    <loc>https://cheean-yu.github.io/Profile/home-unused/publications/</loc>
-  </url>
-  
-  <url>
-    <loc>https://cheean-yu.github.io/Profile/home-unused/tags/</loc>
-  </url>
-  
-  <url>
-    <loc>https://cheean-yu.github.io/Profile/project/intel_trash/</loc>
-    <lastmod>2022-02-02T03:49:16+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cheean-yu.github.io/Profile/</loc>
-    <lastmod>2022-02-02T03:49:16+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cheean-yu.github.io/Profile/project/</loc>
-    <lastmod>2022-02-02T03:49:16+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cheean-yu.github.io/Profile/tag/robotics/</loc>
-    <lastmod>2022-02-02T03:49:16+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cheean-yu.github.io/Profile/tags/</loc>
-    <lastmod>2022-02-02T03:49:16+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cheean-yu.github.io/Profile/project/cant_beam/</loc>
-    <lastmod>2022-02-02T03:48:30+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cheean-yu.github.io/Profile/tag/others/</loc>
-    <lastmod>2022-02-02T03:48:30+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cheean-yu.github.io/Profile/project/hc_robot/</loc>
-    <lastmod>2022-02-02T03:47:48+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cheean-yu.github.io/Profile/project/dlcv/</loc>
-    <lastmod>2022-02-02T03:32:22+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cheean-yu.github.io/Profile/tag/deep-learning/</loc>
-    <lastmod>2022-02-02T03:32:22+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cheean-yu.github.io/Profile/authors/</loc>
-  </url>
-  
-  <url>
-    <loc>https://cheean-yu.github.io/Profile/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://cheean-yu.github.io/Profile/home-unused/</loc>
-  </url>
-  
-  <url>
-    <loc>https://cheean-yu.github.io/Profile/post/</loc>
-  </url>
-  
-  <url>
-    <loc>https://cheean-yu.github.io/Profile/publication_types/</loc>
-  </url>
-  
-  <url>
-    <loc>https://cheean-yu.github.io/Profile/publication/</loc>
-  </url>
-  
-  <url>
-    <loc>https://cheean-yu.github.io/Profile/talk/</loc>
-  </url>
-  
-  <url>
-    <loc>https://cheean-yu.github.io/Profile/author/%E4%BD%99%E5%A5%87%E5%AE%89-chee-an-ted-yu/</loc>
-  </url>
-  
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://cheeen-yu.github.io/profile.site/</loc>
+         <lastmod>2024-12-14</lastmod>
+    </url>
+    <url>
+         <loc>https://cheeen-yu.github.io/profile.site/project/</loc>
+         <lastmod>2024-12-14</lastmod>
+    </url>
+    <url>
+         <loc>https://cheeen-yu.github.io/profile.site/publication/</loc>
+         <lastmod>2024-12-14</lastmod>
+    </url>
+    <url>
+         <loc>https://cheeen-yu.github.io/profile.site/see_also/</loc>
+         <lastmod>2024-12-14</lastmod>
+    </url>
 </urlset>
